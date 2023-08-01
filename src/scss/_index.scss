@@ -213,7 +213,6 @@
 }
 
 .ui-tabcontent {
-  max-width: 850px;
   margin-bottom: 0;
   padding-bottom: 35px;
   border-bottom: 2px solid rgba(70, 85, 104, 0.15);
@@ -224,6 +223,7 @@
   }
 
   &-text {
+    max-width: 850px;
     font-size: 18px;
     margin-bottom: 15px;
 
